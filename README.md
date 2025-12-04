@@ -1,8 +1,8 @@
 # Projeto RAG Híbrida - Sistema de IA com Busca Vetorial
 
 ## Alunos
-- Vinicius de andrade paz
--Davi silva 
+Vinicius de andrade paz
+Davi silva 
 Sistema de Retrieval-Augmented Generation (RAG) híbrido implementado no n8n que combina processamento de linguagem natural com busca vectorial para consulta inteligente de dados.
 
 link do video: https://youtu.be/rsqoKGVAYpI
