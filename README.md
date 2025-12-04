@@ -39,3 +39,12 @@ Text Processing → Vector Store → Supabase
 Chat Trigger → AI Agent → OpenAI →
 Memory → Hybrid Search → Response
 ```
+# Prints do trabalho
+
+- Workflow completo
+  <img width="1132" height="710" alt="image" src="https://github.com/user-attachments/assets/70696038-1857-4861-8c16-4dcf0532a1f7" />
+
+- Print da database no supabase
+  <img width="1872" height="932" alt="image" src="https://github.com/user-attachments/assets/cf58d6f5-ff43-4220-80c3-4637b63c926d" />
+
+  <img width="1570" height="774" alt="image" src="https://github.com/user-attachments/assets/f7557bd4-112e-4549-9cb1-477c3b048f7c" />
